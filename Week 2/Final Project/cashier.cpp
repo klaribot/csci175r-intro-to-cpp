@@ -1,4 +1,4 @@
-//Booksellers Final Project - Week 1 - Justin Reed
+//Booksellers Final Project - Week 2 - Justin Reed
 #include <iostream>
 #include <string>
 using namespace std;
